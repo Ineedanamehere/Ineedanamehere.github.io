@@ -3,7 +3,7 @@ main:
     authors: "<strong>Zirui He</strong>, Huopu Zhang, Yanguang Liu, Sirui Wu, Mengnan Du"
     conference: "Preprint, 2026"
     pdf: "https://arxiv.org/pdf/2511.06571"
-    image: "./assets/img/rep2text.png"
+    image: "./assets/img/financhor.png"
     
   - title: "Rep2Text: Decoding Full Text from a Single LLM Token Representation"
     authors: "Haiyan Zhao, <strong>Zirui He</strong>, Fan Yang, Ali Payani, Mengnan Du"
@@ -21,21 +21,24 @@ main:
     authors: "Huopu Zhang, Yanguang Liu, Miao Zhang, <strong>Zirui He</strong>, Mengnan Du"
     conference: "Preprint, 2025"
     pdf: "https://arxiv.org/abs/2505.14420v2"
-    image: "./assets/img/sae-fire.png"
+    image: "./assets/img/saefire.png"
 
   - title: "SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models"
     authors: "<strong>Zirui He</strong>, Mingyu Jin, Bo Shen, Ali Payani, Yongfeng Zhang, Mengnan Du"
     conference_short: EMNLP
     conference: "Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025"
-    image: "./assets/img/sae-ssv.png"
+    pdf: "https://aclanthology.org/2025.emnlp-main.112.pdf"
+    image: "./assets/img/saessv.png"
 
   - title: "SAIF: A Sparse Autoencoder Framework for Interpreting and Steering Instruction Following of Language Models"
     authors: "<strong>Zirui He</strong>, Haiyan Zhao, Yiran Qiao, Fan Yang, Ali Payani, Jing Ma, Mengnan Du"
     conference: "Preprint, 2025"
+    pdf: "https://arxiv.org/abs/2502.11356"
     image: "./assets/img/saif.png"
 
   - title: "Mitigating shortcuts in language models with soft label encoding"
     authors: "<strong>Zirui He</strong>, Huiqi Deng, Haiyan Zhao, Ninghao Liu, Mengnan Du"
     conference_short: COLING
     conference: "International Conference on Computational Linguistics (COLING), 2024"
-    image: "./assets/img/soft-labels.png"
+    pdf: "https://aclanthology.org/2024.lrec-main.991.pdf"
+    image: "./assets/img/sle.png"
