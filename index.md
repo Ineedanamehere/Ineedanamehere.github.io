@@ -21,4 +21,8 @@ Explainable AI, Natural Language Processing, Interpretability, Reasoning and Mem
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/teachings.md %}
+
 {% include_relative _includes/services.md %}
+
+
