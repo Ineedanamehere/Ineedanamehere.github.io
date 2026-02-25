@@ -2,7 +2,7 @@ main:
   - title: "FinAnchor: Aligned Multi-Model Representations for Financial Prediction"
     authors: "<strong>Zirui He</strong>, Huopu Zhang, Yanguang Liu, Sirui Wu, Mengnan Du"
     conference: "Preprint, 2026"
-    pdf: "https://arxiv.org/pdf/2511.06571"
+    pdf: "http://arxiv.org/abs/2602.20859"
     image: "./assets/img/financhor.png"
     
   - title: "Rep2Text: Decoding Full Text from a Single LLM Token Representation"
