@@ -1,45 +1,45 @@
 main:
-
- - title: "Rep2Text: Decoding Full Text from a Single LLM Token Representation"
+  - title: "Rep2Text: Decoding Full Text from a Single LLM Token Representation"
     authors: "Haiyan Zhao, <strong>Zirui He</strong>, Fan Yang, Ali Payani, Mengnan Du"
     conference_short: arXiv
-    conference: arXiv preprint, 2025
-    pdf: https://arxiv.org/pdf/2511.06571
-    image: ./assets/img/rep2text.png
+    conference: "arXiv preprint, 2025"
+    pdf: "https://arxiv.org/pdf/2511.06571"
+    image: "./assets/img/rep2text.png"
     notes: Preprint
 
   - title: "MemLens: Uncovering Memorization in LLMs with Activation Trajectories"
     authors: "<strong>Zirui He</strong>, Haiyan Zhao, Ali Payani, Mengnan Du"
     conference_short: arXiv
-    conference: arXiv preprint, 2025
-    pdf: https://arxiv.org/abs/2509.20909
-    image: ./assets/img/memlens.png
+    conference: "arXiv preprint, 2025"
+    pdf: "https://arxiv.org/abs/2509.20909"
+    image: "./assets/img/memlens.png"
     notes: Preprint
-  
+
   - title: "SAE-FiRE: Enhancing Earnings Surprise Predictions Through Sparse Autoencoder Feature Selection"
     authors: "Huopu Zhang, Yanguang Liu, Miao Zhang, <strong>Zirui He</strong>, Mengnan Du"
     conference_short: arXiv
-    conference: arXiv preprint, 2025
-    pdf: https://arxiv.org/abs/2505.14420v2
-    image: ./assets/img/sae-fire.png
+    conference: "arXiv preprint, 2025"
+    pdf: "https://arxiv.org/abs/2505.14420v2"
+    image: "./assets/img/sae-fire.png"
     notes: Preprint
-    
+
   - title: "SAE-SSV: Supervised Steering in Sparse Representation Spaces for Reliable Control of Language Models"
     authors: "<strong>Zirui He</strong>, Mingyu Jin, Bo Shen, Ali Payani, Yongfeng Zhang, Mengnan Du"
-    conference_short: EMNLP 2025
-    image: ./assets/img/sae-ssv.png
+    conference_short: EMNLP
+    conference: "Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025"
+    image: "./assets/img/sae-ssv.png"
     notes: Accepted
-    
+
   - title: "SAIF: A Sparse Autoencoder Framework for Interpreting and Steering Instruction Following of Language Models"
     authors: "<strong>Zirui He</strong>, Haiyan Zhao, Yiran Qiao, Fan Yang, Ali Payani, Jing Ma, Mengnan Du"
-    conference_short: preprint
-    conference: arXiv preprint, 2025
-    image: ./assets/img/saif.png
-
+    conference_short: arXiv
+    conference: "arXiv preprint, 2025"
+    image: "./assets/img/saif.png"
+    notes: Preprint
 
   - title: "Mitigating shortcuts in language models with soft label encoding"
     authors: "<strong>Zirui He</strong>, Huiqi Deng, Haiyan Zhao, Ninghao Liu, Mengnan Du"
     conference_short: COLING
-    conference: International Conference on Computational Linguistics (COLING), 2024
-    image: ./assets/img/soft-labels.png
+    conference: "International Conference on Computational Linguistics (COLING), 2024"
+    image: "./assets/img/soft-labels.png"
     notes: Accepted
