@@ -11,4 +11,5 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://onlinelibrary.wiley.com/journal/26895595"><autocolor>Applied AI Letters (AIL)</autocolor></a></li>
+  <li><a href="https://jmlr.org/tmlr/"><autocolor>Transactions on Machine Learning Research (TMLR)</autocolor></a></li>
 </ul>
