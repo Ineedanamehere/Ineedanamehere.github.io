@@ -11,11 +11,12 @@ I am a second-year Ph.D. student in [Data Science at the New Jersey Institute of
 Explainable AI, Natural Language Processing, Interpretability, Reasoning and Memorization
 
 ## News
+- **[Apr. 2026]** One paper is accepted to ACL 2026 Findings.
 - **[Feb. 2026]** We released a new preprint, [Rep2Text: Decoding Full Text from a Single LLM Token Representation](https://arxiv.org/pdf/2511.06571).
 - **[Nov. 2025]** I passed my qualify exam and became a PhD Candidate.
 - **[Oct. 2025]** Invited Talk @NJIT Data Sciences Seminar: Representation Space of LLMs.
 - **[Sep. 2025]** We released a new preprint, [MemLens: Uncovering Memorization in LLMs with Activation Trajectories](https://arxiv.org/abs/2509.20909).
-- **[Aug. 2025]** Our paper is accepted to EMNLP 2025.
+- **[Aug. 2025]** One paper is accepted to EMNLP 2025.
 - **[Feb. 2025]** We released a new preprint, [Saif: A sparse autoencoder framework for interpreting and steering instruction following of language models](https://arxiv.org/abs/2502.11356).
 - **[May. 2024]** One paper is accepted to COLING 2024.
 
