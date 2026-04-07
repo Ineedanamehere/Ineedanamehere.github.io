@@ -19,7 +19,8 @@ main:
 
   - title: "SAE-FiRE: Enhancing Earnings Surprise Predictions Through Sparse Autoencoder Feature Selection"
     authors: "Huopu Zhang, Yanguang Liu, Miao Zhang, <strong>Zirui He</strong>, Mengnan Du"
-    conference: "Preprint, 2025"
+    conference_short: ACL Findings
+    conference: "Findings of the Association for Computational Linguistics: ACL 2025"
     pdf: "https://arxiv.org/abs/2505.14420v2"
     image: "./assets/img/saefire.png"
 
