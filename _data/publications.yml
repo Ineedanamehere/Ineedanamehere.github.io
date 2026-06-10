@@ -1,28 +1,28 @@
 main:
-   - title: "LogitTrace: Detecting Benchmark Contamination via Layerwise Logit Trajectories"
+  - title: "LogitTrace: Detecting Benchmark Contamination via Layerwise Logit Trajectories"
     authors: "<strong>Zirui He</strong>, Haiyan Zhao, Yingcong Li, Ali Payani, Mengnan Du"
     conference: "Preprint, 2026"
     pdf: "https://arxiv.org/abs/2509.20909v2"
     image: "./assets/img/logittrace.png"
 
-   - title: "Universal Activation Verbalizer: A Unified Framework for Cross-Model Activation Explanation"
+  - title: "Universal Activation Verbalizer: A Unified Framework for Cross-Model Activation Explanation"
     authors: "Haiyan Zhao, <strong>Zirui He</strong>, Guanchu Wang, Ali Payani, Yingcong Li, Mengnan Du"
     conference: "Preprint, 2026"
     pdf: "https://arxiv.org/abs/2605.25903"
     image: "./assets/img/uav.png"
    
-   - title: "DynaCF: Mitigating Shortcut Learning in Reward Models via Dynamic Counterfactual Sensitivity"
+  - title: "DynaCF: Mitigating Shortcut Learning in Reward Models via Dynamic Counterfactual Sensitivity"
     authors: "Fengyuan Liu, Yongliang Miao, <strong>Zirui He</strong>, Yanguang Liu, Fei Sun, Mengnan Du"
     conference: "Preprint, 2026"
     pdf: "http://arxiv.org/abs/2606.09043"
     image: "./assets/img/dynacf.png"
 
-   - title: "HyperPathsRAG: Multi-Target Path Approximation over Hypergraph Knowledge Graphs for Multi-Hop QA"
+  - title: "HyperPathsRAG: Multi-Target Path Approximation over Hypergraph Knowledge Graphs for Multi-Hop QA"
     authors: "Guanhua Zhu, <strong>Zirui He</strong>, Mengnan Du, Chenxi Yuan"
     conference: "Preprint, 2026"
     image: "./assets/img/hyperpathsrag.png"
    
-   - title: "RealRoute: Dynamic Query Routing System via Retrieve-then-Verify Paradigm"
+  - title: "RealRoute: Dynamic Query Routing System via Retrieve-then-Verify Paradigm"
     authors: "Jiahe Liu, Qinkai Yu, Jingcheng Niu, Xi Zhu, <strong>Zirui He</strong>, Zhen Xiang, Fan Yang, Jinman Zhao"
     conference: "Preprint, 2026"
     pdf: "http://arxiv.org/abs/2604.20860"
